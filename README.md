@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pravin1001
 - 👀 I’m interested in App Development and Some Minor codingsss.
-- 🌱 I’m currently learning Python, Kotlin
+- 🌱 I’m currently learning Python, Java
 - 💞️ I’m looking to collaborate on any deadlined project
 - 📫 How to reach me by my email kolaapravin@gmail.com
 
